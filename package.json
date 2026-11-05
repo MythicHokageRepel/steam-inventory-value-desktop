@@ -1,7 +1,7 @@
 {
   "name": "glasscase",
   "productName": "Glasscase",
-  "version": "2.3.43",
+  "version": "2.5.0",
   "description": "A portable desktop app that values a Steam account and inventory, with honest floor and sales-average prices.",
   "type": "module",
   "main": "src/main/main.js",

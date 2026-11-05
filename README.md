@@ -185,7 +185,7 @@ git clone https://github.com/MythicHokageRepel/steam-inventory-value-desktop.git
 cd steam-inventory-tracker-valuator
 npm ci
 npm run build:win     # dist/`steam-inventory-tracker-valuator.zip`
-npm run build:linux   # dist/Glasscase-2.4.0-x86_64.AppImage
+npm run build:linux   # dist/Glasscase-2.5.0-x86_64.AppImage
 ```
 
 On Linux, make the AppImage executable with `chmod +x`. If it fails with `error loading libfuse.so.2`, install FUSE 2 (`sudo apt install libfuse2t64` on Ubuntu 24.04+), or start it with `--appimage-extract-and-run`.
